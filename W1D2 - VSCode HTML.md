@@ -10,6 +10,7 @@
 
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [W3Validator](https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation)
 
 # HTML5
 
