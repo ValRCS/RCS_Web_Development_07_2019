@@ -33,7 +33,10 @@
 # HTML5
 
 * https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
-* https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-images-to-your-website
+
+## Resume HTML Practice here
+* https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element
+
 
 ## HTML5 capabilities
 
