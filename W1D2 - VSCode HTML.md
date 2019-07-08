@@ -13,6 +13,7 @@
 * [W3Validator](https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation)
 * [Color Brackets](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) can be slow
 
+
 # HTML5
 
 * https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
