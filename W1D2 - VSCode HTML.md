@@ -1,3 +1,16 @@
+## Git Basics
+
+* https://www.atlassian.com/git/tutorials/what-is-version-control
+* https://www.atlassian.com/git/tutorials/what-is-git
+* https://www.atlassian.com/git/tutorials/install-git
+* https://www.atlassian.com/git/tutorials/setting-up-a-repository
+
+#### Official Git Docs
+* https://git-scm.com/docs/gittutorial
+
+* https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+
+
 ## Installing Visual Studio Code
 
 ### [VSCODE](https://code.visualstudio.com/)
@@ -12,6 +25,9 @@
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [W3Validator](https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation)
 * [Color Brackets](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) can be slow
+
+
+
 
 
 # HTML5
