@@ -19,6 +19,7 @@
 * [User Interface](https://code.visualstudio.com/docs/getstarted/userinterface)
 * [VS Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings)
 * [Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+* [VS Code Cheatsheet for Windows/MacOS/Linux](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_keyboard-reference-sheets)
 
 ### Plugins
 
