@@ -17,6 +17,10 @@ From https://medium.com/@eduoshaun/difference-between-git-and-github-807f1a57d43
 ## Install Git locally
 https://git-scm.com/downloads
 
+## First Time Setup
+* https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+* https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
+
 ## Start using the repo run in terminal: 
 *git clone https://github.com/ValRCS/RCS_Web_Development_07_2019.git*
 * clones whole repo in the current working directory from which you run git clone
@@ -40,6 +44,9 @@ https://git-scm.com/downloads
 * git reset --hard SHA1 where SHA1 is SHA1 of the revision you want
 
 * git pull to get back to HEAD revision
+
+
+
 
 
 ### Various workflows: https://www.atlassian.com/git/tutorials/comparing-workflows
