@@ -56,6 +56,9 @@ From https://medium.com/@eduoshaun/difference-between-git-and-github-807f1a57d43
 
 * https://www.atlassian.com/dam/jcr:8132028b-024f-4b6b-953e-e68fcce0c5fa/atlassian-git-cheatsheet.pdf
 
+### Git Basics in 10 minutes
+* https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+
 ### Git Graphical Clients
 * https://git-scm.com/downloads/guis
 
