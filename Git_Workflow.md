@@ -18,7 +18,7 @@ From https://medium.com/@eduoshaun/difference-between-git-and-github-807f1a57d43
 https://git-scm.com/downloads
 
 ## Start using the repo run in terminal: 
-*git clone https://github.com/ValRCS/RCS_Data_Analysis_Python_2019_May.git*
+*git clone https://github.com/ValRCS/RCS_Web_Development_07_2019.git*
 * clones whole repo in the current working directory from which you run git clone
 
 * git log shows revision history with SHA1 hash value for each revision
