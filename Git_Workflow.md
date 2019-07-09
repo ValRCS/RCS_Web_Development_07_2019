@@ -44,4 +44,8 @@ https://git-scm.com/downloads
 
 ### Various workflows: https://www.atlassian.com/git/tutorials/comparing-workflows
 
+### Git Cheatsheet
+
+* https://www.atlassian.com/dam/jcr:8132028b-024f-4b6b-953e-e68fcce0c5fa/atlassian-git-cheatsheet.pdf
+
 
