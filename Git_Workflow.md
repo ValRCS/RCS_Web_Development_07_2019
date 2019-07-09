@@ -64,3 +64,6 @@ From https://medium.com/@eduoshaun/difference-between-git-and-github-807f1a57d43
 
 ## Git support in Visual Studio Code
 * https://code.visualstudio.com/docs/editor/versioncontrol
+
+## Git Bash commands
+* https://www.atlassian.com/git/tutorials/git-bash
