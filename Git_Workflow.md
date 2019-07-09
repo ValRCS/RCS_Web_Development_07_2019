@@ -15,7 +15,8 @@ From https://medium.com/@eduoshaun/difference-between-git-and-github-807f1a57d43
 
 
 ## Install Git locally
-https://git-scm.com/downloads
+* https://git-scm.com/downloads
+* https://www.atlassian.com/git/tutorials/install-git
 
 ## First Time Setup
 * https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
