@@ -18,6 +18,7 @@
 * [Getting Started](https://code.visualstudio.com/docs/introvideos/basics)
 * [User Interface](https://code.visualstudio.com/docs/getstarted/userinterface)
 * [VS Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings)
+* [Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 ### Plugins
 
