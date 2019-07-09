@@ -55,4 +55,8 @@ https://git-scm.com/downloads
 
 * https://www.atlassian.com/dam/jcr:8132028b-024f-4b6b-953e-e68fcce0c5fa/atlassian-git-cheatsheet.pdf
 
+### Git Graphical Clients
+* https://git-scm.com/downloads/guis
 
+## Git support in Visual Studio Code
+* https://code.visualstudio.com/docs/editor/versioncontrol
