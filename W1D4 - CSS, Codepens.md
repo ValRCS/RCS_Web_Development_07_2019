@@ -9,6 +9,7 @@
 
 * https://developer.mozilla.org/en-US/docs/Web/CSS
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+* https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
 
 * [How CSS Works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
 * [CSS Syntax](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Syntax)
