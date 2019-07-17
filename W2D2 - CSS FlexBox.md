@@ -16,6 +16,8 @@
 ## Holy Grail via flexbox
 * https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676
 
+* https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/
+
 ## Play the flexbox froggy game
 * https://flexboxfroggy.com/
 
