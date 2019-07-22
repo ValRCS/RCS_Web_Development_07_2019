@@ -3,6 +3,7 @@
 * https://eloquentjavascript.net/
 * https://javascript.info/
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript
+* https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/
 
 
 ## Escape sequences in strings
