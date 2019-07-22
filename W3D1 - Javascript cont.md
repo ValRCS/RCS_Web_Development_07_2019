@@ -1,4 +1,11 @@
-# Escape sequences in strings
+# Good learning resources / books
+
+* https://eloquentjavascript.net/
+* https://javascript.info/
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+## Escape sequences in strings
 * https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings
 
 
