@@ -1,6 +1,9 @@
 ## Switch
 * https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements
 
+## Objects
+* https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+
 # DOM Events
 
 * https://developer.mozilla.org/en-US/docs/Web/Events
