@@ -1,3 +1,6 @@
+# Document methods and properties
+* https://developer.mozilla.org/en-US/docs/Web/API/Document
+
 # Event Bubbling and Capturing 
 * https://javascript.info/bubbling-and-capturing
 * https://www.sitepoint.com/event-bubbling-javascript/
