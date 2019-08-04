@@ -114,3 +114,7 @@ We need some way of storing data since PHP interpreter will "forget" each sessio
 
 ### What happens when  many visitors access the page at the same time?
 
+## Deploying PHP on Heroku
+* https://devcenter.heroku.com/articles/getting-started-with-php
+* https://devcenter.heroku.com/articles/deploying-php
+
