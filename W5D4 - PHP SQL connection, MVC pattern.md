@@ -8,6 +8,10 @@
 * https://www.php.net/manual/en/pdo.connections.php
 * https://phpdelusions.net/pdo_examples/connect_to_mysql (this guy has strong opinions on PHP but very experienced)
 
+## MySQL database collation types 
+* https://en.wikipedia.org/wiki/Collation
+* https://mathiasbynens.be/notes/mysql-utf8mb4
+
 # PHP project file structure
 
 * https://phptherightway.com/#common_directory_structure
