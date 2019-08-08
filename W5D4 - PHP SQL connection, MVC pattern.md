@@ -12,6 +12,10 @@
 * https://en.wikipedia.org/wiki/Collation
 * https://mathiasbynens.be/notes/mysql-utf8mb4
 
+## MySQL database design tips
+* https://www.quora.com/What-is-are-the-best-practice-rules-in-an-MySQL-database-design-for-a-better-future
+* https://dzone.com/articles/20-database-design-best
+
 # PHP project file structure
 
 * https://phptherightway.com/#common_directory_structure
