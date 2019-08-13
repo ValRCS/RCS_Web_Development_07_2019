@@ -1,5 +1,9 @@
+# SOLID principles in OOP design
+* https://en.wikipedia.org/wiki/SOLID
+
 # More on MVC
 
+* https://www.tonymarston.net/php-mysql/model-view-controller.html (my favorite pragmatic article)
 * https://code-boxx.com/simple-php-mvc-example/
 * https://r.je/immutable-mvc-crud-application
 
