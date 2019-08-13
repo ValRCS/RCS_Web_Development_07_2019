@@ -53,5 +53,9 @@ Only person to hold a gold badge in  PDO,  Mysqli and  SQL Injection on Stack Ov
 ### PDO connection to MySQL
 * https://phpdelusions.net/pdo_examples/connect_to_mysql
 
+## Filtering/Sanitization/Validation
+
+* https://www.php.net/book.filter
+
 
 
