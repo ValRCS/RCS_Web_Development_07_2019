@@ -33,6 +33,11 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frame
 * https://laravel.com/docs/5.1/quickstart-intermediate
 * https://www.tutorialspoint.com/laravel/
 
+## Testing Frameworks
+
+* https://phpunit.de/getting-started/phpunit-8.html
+* https://hackernoon.com/the-developers-guide-to-php-testing-in-2018-ebcc1f6e9a42
+
 # Containers (virtualization) for PHP and pretty much everything else
 ## VirtualBox for full virtual machines inside your computer
 * https://www.virtualbox.org/
