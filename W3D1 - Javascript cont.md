@@ -6,6 +6,9 @@
 * https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/
 
 
+## Best Practices
+* https://www.freecodecamp.org/news/javascript-naming-convention/
+
 ## Escape sequences in strings
 * https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings
 
